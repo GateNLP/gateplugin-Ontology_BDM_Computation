@@ -7,7 +7,7 @@
 		<groupId>uk.ac.gate</groupId>
 		<artifactId>gate-plugin-base</artifactId>
 		<!-- The version of GATE you wish to build against -->
-		<version>8.5-SNAPSHOT</version>
+		<version>8.5</version>
 		<!-- This forces the parent to always be resolved from the repo -->
 		<relativePath />
 	</parent>
@@ -15,7 +15,7 @@
 	<!-- The Maven coordinates of this plugin -->
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>ontology-bdm-computation</artifactId>
-	<version>8.5-SNAPSHOT</version>
+	<version>8.5</version>
 
 	<!-- Information about this plugin. This will be used when the plugin is 
 		shown in the GATE plugin manager -->
