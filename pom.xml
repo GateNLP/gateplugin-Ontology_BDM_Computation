@@ -46,6 +46,14 @@
 		provide here. See the pom.xml reference for full details -->
 
 
+	<repositories>
+		<repository>
+			<id>gate.ac.uk</id>
+			<name>GATE Development Repository</name>
+			<url>https://repo.gate.ac.uk/content/groups/public/</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<!-- Add the Maven coordinates of all libraries this plugin depends on. 
 			The site https://search.maven.org/ can be used to search for libraries and 
